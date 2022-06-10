@@ -1,2 +1,2 @@
 # littleQuiz
-A little program for practicing ^^
+Just a random stuff here
